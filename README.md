@@ -1,0 +1,1 @@
+# SumOfNumbersDivisibleBy3OnEvenPositions
